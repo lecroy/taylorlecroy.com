@@ -1,0 +1,10 @@
+/* ==========================================================
+ *
+ *	Name: Social Media Icons - IE below 9 Fix
+ *	Author: Dorin Vancea
+ *	Published: modernuidesign.com
+ *	Date: 30 September 2012	
+ *
+ * ========================================================*/
+
+ul#sm li a { background-image:url("../images/socialmedia.png") }
