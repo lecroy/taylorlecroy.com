@@ -1,0 +1,32 @@
+@font-face
+{
+font-family: DecimaMono-Light;
+src: url(fonts/DecimaMono-Light.otf);
+}
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+body, html { font-size: 100%; padding: 0; margin: 0;}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+html {
+	height: 100%;
+}
+
+body {
+	font-family: "freight-text-pro", arial, sans-serif;
+	text-rendering: optimizeLegibility;
+	color: #b3b9bf;
+	background: #e7e2e0;
+	
+}
+
+a {
+	text-decoration: none;
+       
+}
+
+
+
