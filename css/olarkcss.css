@@ -4,7 +4,7 @@
 
 .habla_window_div_base {
 	border:0;
-	font-family:verdana,arial,helvetica;
+	font-family:'helvetica neue',arial,helvetica;
 	font-style:inherit;
 	font-weight:inherit;
 	line-height:1;
@@ -17,7 +17,7 @@
 	z-index:99999
 }
 
-.habla_panel_border{-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;background:#FFF;border:1px solid #000;font-family:verdana,arial,helvetica;font-size:14px;width:250px}
+.habla_panel_border{-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;background:#FFF;border:1px solid #000;font-family:'helvetica neue',arial,helvetica;font-size:14px;width:250px}
 .habla_button_a_highlighted,.habla_button_a_hover{background-color:#666;color:#FFF}
 a.habla_button_a_hover:hover{font-size:14px}
 
@@ -73,10 +73,10 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 }
 
 .habla_chatform_form{margin:0;padding:0}
-.habla_input_div{font-family:verdana,arial,helvetica;font-size:12px;font-weight:400;margin:0;padding:3px}
-.habla_offline_body_input{font-family:verdana,arial,helvetica;font-size:12px;height:155px;vertical-align:text-top;width:234px}
+.habla_input_div{font-family:'helvetica neue',arial,helvetica;font-size:12px;font-weight:400;margin:0;padding:3px}
+.habla_offline_body_input{font-family:'helvetica neue',arial,helvetica;font-size:12px;height:155px;vertical-align:text-top;width:234px}
 .habla_say_text_span{color:#000}
-.habla_submit_button{font-family:verdana,arial,helvetica;font-size:12px;margin:0;vertical-align:text-top;width:234px}
+.habla_submit_button{font-family:'helvetica neue',arial,helvetica;font-size:12px;margin:0;vertical-align:text-top;width:234px}
 
 .habla_offline_submit_input{
 	background:#E75917;
@@ -90,7 +90,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	-webkit-border-radius: 5px;
 }
 
-.habla_offline_error_span{float:left;font-family:verdana,arial,helvetica;font-size:12px}
+.habla_offline_error_span{float:left;font-family:'helvetica neue',arial,helvetica;font-size:12px}
 
 .habla_wcsend_input_normal{
 	border:1px solid #CCC;
@@ -104,7 +104,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 
 .habla_wcsend_field{
 	background:0 0;
-	font-family:verdana,arial,helvetica;
+	font-family:'helvetica neue',arial,helvetica;
 	font-size:12px;
 	height:28px;
 	margin-top: 10px;
