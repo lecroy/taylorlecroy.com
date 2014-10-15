@@ -86,4 +86,22 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_wcsend_input_post{color:#000}
 .habla_wcsend_input_pre_highlighted{border:2px solid #CCC}
 .habla_wcsend_input_highlighted{border:2px solid;color:#000}
-.habla_wcsend_field{background:0 0;font-family:verdana,arial,helvetica;font-size:12px;height:24px;margin:0;overflow:auto;padding:1px 3px;vertical-align:text-top;width:234px}
+
+.habla_wcsend_field{
+	background:0 0;
+	font-family:verdana,arial,helvetica;
+	font-size:12px;
+	height:24px;
+	margin-top: 10px;
+	overflow:auto;
+	padding: 1px 3px;
+	vertical-align:text-top;
+	width:234px;
+}
+
+
+
+
+
+
+
