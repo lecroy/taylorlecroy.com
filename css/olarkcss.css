@@ -46,9 +46,10 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	border:#CCC!important;
 	color:#fff!important;
 	float:right;
-	padding: 10px 15px;
-	margin-right:2px
+	padding: 8px 15px;
+	margin-right:2px;
 	font-size: 16px;
+	font-weight: bold;
 	-webkit-border-radius: 5px;
 }
 
