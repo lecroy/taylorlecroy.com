@@ -90,11 +90,11 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_wcsend_field{
 	background:0 0;
 	font-family:verdana,arial,helvetica;
-	font-size:12px;
-	height:24px;
+	font-size:14px;
+	height:28px;
 	margin-top: 10px;
 	overflow:auto;
-	padding: 1px 3px;
+	padding: 4px 3px;
 	vertical-align:text-top;
 	width:234px;
 }
