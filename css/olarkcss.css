@@ -17,7 +17,17 @@
 	z-index:99999
 }
 
-.habla_panel_border{-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;background:#FFF;border:1px solid #000;font-family:'helvetica neue',arial,helvetica;font-size:14px;width:250px}
+.habla_panel_border{
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-topright:5px;
+	background:#efefef;
+	border:1px solid #000;
+	font-family:'helvetica neue',arial,helvetica;font-size:14px;
+	width:250px
+}
+
 .habla_button_a_highlighted,.habla_button_a_hover{background-color:#666;color:#FFF}
 a.habla_button_a_hover:hover{font-size:14px}
 
