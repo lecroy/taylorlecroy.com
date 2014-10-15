@@ -8,14 +8,7 @@ a.habla_button_a_hover:hover{font-size:14px}
 
 .habla_button_a_normal{background-color:#333;color:#FFF}
 
-.habla_button {
-	float:right;
-	font-size: 16px;
-	font-weight:700;
-	margin-left:3px;
-	padding: 10px 15px;
-	text-decoration:none!important;
-}
+.habla_button {float:right;font-weight:700;margin-left:3px;padding:0 6px 2px;text-decoration:none!important}
 
 .habla_conversation_message_off{margin:0!important;padding:3px 3px 3px 23px}
 
