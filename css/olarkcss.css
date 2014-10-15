@@ -1,16 +1,16 @@
 .habla_window_div_position{bottom:10px;position:fixed;right:10px}
 .habla_window_div_position_floating{bottom:10px;position:fixed;right:10px}
 .habla_window_div_position_floating_ie{bottom:10px;position:absolute;right:10px}
-.habla_window_div_base{border:0!important;font-family:verdana,arial,helvetica;font-style:inherit;font-weight:inherit;line-height:1;margin:0!important;outline:-moz-use-text-color 0;outline-style:none!important;padding:0!important;text-align:left;vertical-align:baseline;z-index:99999!important}
+.habla_window_div_base{border:0;font-family:verdana,arial,helvetica;font-style:inherit;font-weight:inherit;line-height:1;margin:0;outline:-moz-use-text-color 0;outline-style:none;padding:0;text-align:left;vertical-align:baseline;z-index:99999}
 .habla_panel_border{-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;background:#FFF;border:1px solid #000;font-family:verdana,arial,helvetica;font-size:14px;width:250px}
 .habla_button_a_highlighted,.habla_button_a_hover{background-color:#666;color:#FFF}
 a.habla_button_a_hover:hover{font-size:14px}
 
 .habla_button_a_normal{background-color:#333;color:#FFF}
 
-.habla_button {float:right;font-weight:700;margin-left:3px;padding:0 6px 2px;text-decoration:none!important}
+.habla_button {float:right;font-weight:700;margin-left:3px;padding:0 6px 2px;text-decoration:none}
 
-.habla_conversation_message_off{margin:0!important;padding:3px 3px 3px 23px}
+.habla_conversation_message_off{margin:0;padding:3px 3px 3px 23px}
 
 .habla_conversation_message_on{margin:0;padding:5px}
 
@@ -39,19 +39,19 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	padding: 3px;
 }
 
-.habla_conversation_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto;color:#000;padding:3px 3px 3px 23px!important}
+.habla_conversation_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto;color:#000;padding:3px 3px 3px 23px}
 .habla_pre_chat_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto;color:#000;padding:3px}
-.habla_offline_message_sent_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto!important;padding:3px!important}
-.habla_chatform_form{margin:0!important;padding:0!important}
-.habla_input_div{font-family:verdana,arial,helvetica;font-size:12px;font-weight:400!important;margin:0!important;padding:3px!important}
+.habla_offline_message_sent_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto;padding:3px}
+.habla_chatform_form{margin:0;padding:0}
+.habla_input_div{font-family:verdana,arial,helvetica;font-size:12px;font-weight:400;margin:0;padding:3px}
 .habla_offline_body_input{font-family:verdana,arial,helvetica;font-size:12px;height:155px;vertical-align:text-top;width:234px}
 .habla_say_text_span{color:#000}
-.habla_submit_button{font-family:verdana,arial,helvetica;font-size:12px;margin:0!important;vertical-align:text-top;width:234px}
+.habla_submit_button{font-family:verdana,arial,helvetica;font-size:12px;margin:0;vertical-align:text-top;width:234px}
 
 .habla_offline_submit_input{
-	background:#E75917!important;
-	border:#CCC!important;
-	color:#fff!important;
+	background:#E75917;
+	border:#CCC;
+	color:#fff;
 	float:right;
 	padding: 8px 15px;
 	margin-right:2px;
@@ -63,12 +63,12 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_offline_error_span{float:left;font-family:verdana,arial,helvetica;font-size:12px}
 
 .habla_wcsend_input_normal{
-	border:1px solid #CCC!important;
+	border:1px solid #CCC;
 	margin-top: 10px;
 }
 
 .habla_wcsend_input_pre{color:#707070}
 .habla_wcsend_input_post{color:#000}
-.habla_wcsend_input_pre_highlighted{border:2px solid #CCC!important}
-.habla_wcsend_input_highlighted{border:2px solid!important;color:#000!important}
-.habla_wcsend_field{background:0 0;font-family:verdana,arial,helvetica;font-size:12px;height:24px;margin:0!important;overflow:auto!important;padding:1px 3px!important;vertical-align:text-top;width:234px}
+.habla_wcsend_input_pre_highlighted{border:2px solid #CCC}
+.habla_wcsend_input_highlighted{border:2px solid;color:#000}
+.habla_wcsend_field{background:0 0;font-family:verdana,arial,helvetica;font-size:12px;height:24px;margin:0;overflow:auto;padding:1px 3px;vertical-align:text-top;width:234px}
