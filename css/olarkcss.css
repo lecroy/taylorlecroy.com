@@ -105,8 +105,9 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	float:left;
 	font-family:'helvetica neue',arial,helvetica;
 	font-size:12px;
-	line-height: .8em;
+	line-height: 1em;
 	margin-left: 3px;
+	margin-top: 10px;
 	color: #E75917;
 }
 
