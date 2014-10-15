@@ -1,7 +1,22 @@
 .habla_window_div_position{bottom:10px;position:fixed;right:10px}
 .habla_window_div_position_floating{bottom:10px;position:fixed;right:10px}
 .habla_window_div_position_floating_ie{bottom:10px;position:absolute;right:10px}
-.habla_window_div_base{border:0;font-family:verdana,arial,helvetica;font-style:inherit;font-weight:inherit;line-height:1;margin:0;outline:-moz-use-text-color 0;outline-style:none;padding:0;text-align:left;vertical-align:baseline;z-index:99999}
+
+.habla_window_div_base {
+	border:0;
+	font-family:verdana,arial,helvetica;
+	font-style:inherit;
+	font-weight:inherit;
+	line-height:1;
+	margin-top: 10px;
+	outline:-moz-use-text-color 0;
+	outline-style:none;
+	padding:0;
+	text-align:left;
+	vertical-align:baseline;
+	z-index:99999
+}
+
 .habla_panel_border{-moz-border-radius-bottomleft:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;background:#FFF;border:1px solid #000;font-family:verdana,arial,helvetica;font-size:14px;width:250px}
 .habla_button_a_highlighted,.habla_button_a_hover{background-color:#666;color:#FFF}
 a.habla_button_a_hover:hover{font-size:14px}
