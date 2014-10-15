@@ -65,7 +65,14 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	padding:3px
 }
 
-.habla_offline_message_sent_div{background:0 0;border-bottom:1px dotted #CCC;height:155px;line-height:1.5em;overflow:auto;padding:3px}
+.habla_offline_message_sent_div {
+	background:0 0;
+	height:155px;
+	line-height:1.5em;
+	overflow:auto;
+	padding:3px
+}
+
 .habla_chatform_form{margin:0;padding:0}
 .habla_input_div{font-family:verdana,arial,helvetica;font-size:12px;font-weight:400;margin:0;padding:3px}
 .habla_offline_body_input{font-family:verdana,arial,helvetica;font-size:12px;height:155px;vertical-align:text-top;width:234px}
