@@ -40,7 +40,18 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_offline_body_input{font-family:verdana,arial,helvetica;font-size:12px;height:155px;vertical-align:text-top;width:234px}
 .habla_say_text_span{color:#000}
 .habla_submit_button{font-family:verdana,arial,helvetica;font-size:12px;margin:0!important;vertical-align:text-top;width:234px}
-.habla_offline_submit_input{background:#E75917!important;border:#CCC!important;color:#fff!important;float:right;margin-right:2px}
+
+.habla_offline_submit_input{
+	background:#E75917!important;
+	border:#CCC!important;
+	color:#fff!important;
+	float:right;
+	padding: 10px 15px;
+	margin-right:2px
+	font-size: 16px;
+	-webkit-border-radius: 5px;
+}
+
 .habla_offline_error_span{float:left;font-family:verdana,arial,helvetica;font-size:12px}
 
 .habla_wcsend_input_normal{
