@@ -103,6 +103,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_offline_error_span{float:left;font-family:'helvetica neue',arial,helvetica;font-size:12px}
 
 .habla_wcsend_input_normal{
+	background: #fff;
 	border:1px solid #CCC;
 	margin-top: 10px;
 }
@@ -113,7 +114,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 .habla_wcsend_input_highlighted{border:2px solid;color:#000}
 
 .habla_wcsend_field{
-	background:0 0;
+	background: #fff;
 	font-family:'helvetica neue',arial,helvetica;
 	font-size:12px;
 	height:28px;
