@@ -101,7 +101,12 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	-webkit-border-radius: 5px;
 }
 
-.habla_offline_error_span{float:left;font-family:'helvetica neue',arial,helvetica;font-size:12px}
+.habla_offline_error_span{
+	float:left;
+	font-family:'helvetica neue',arial,helvetica;
+	font-size:12px;
+	line-height: .8em;
+}
 
 .habla_wcsend_input_normal{
 	background: #fff;
