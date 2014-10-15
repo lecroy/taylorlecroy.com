@@ -106,6 +106,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	background: #fff;
 	border:1px solid #CCC;
 	margin-top: 10px;
+	margin-left: 2px;
 }
 
 .habla_wcsend_input_pre{color:#707070}
@@ -119,6 +120,7 @@ a.habla_oplink_a_hover:hover{font-size:14px}
 	font-size:12px;
 	height:28px;
 	margin-top: 10px;
+	margin-left: 2px;
 	overflow:auto;
 	padding: 4px 3px;
 	vertical-align:text-top;
